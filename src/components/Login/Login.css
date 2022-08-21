@@ -1,0 +1,20 @@
+.lightLog {
+    width: 500px;
+    height: 250px;
+    border-radius: 10px;
+    margin: auto;
+    margin-top: 10%;
+    -webkit-box-shadow: 8px 9px 57px -10px rgba(0, 0, 0, 0.39);
+    -moz-box-shadow: 8px 9px 57px -10px rgba(0, 0, 0, 0.39);
+    box-shadow: 8px 9px 57px -10px rgba(0, 0, 0, 0.39);
+}
+.darkLog {
+    width: 500px;
+    height: 250px;
+    border-radius: 10px;
+    margin: auto;
+    margin-top: 10%;
+    -webkit-box-shadow: 8px 9px 57px -10px rgba(0, 0, 0, 0.39);
+    -moz-box-shadow: 8px 9px 57px -10px rgba(0, 0, 0, 0.39);
+    box-shadow: 8px 9px 57px -10px rgba(0, 0, 0, 0.39);
+}

@@ -1,0 +1,39 @@
+.lightRegDiv{
+    width: 100vw;
+    height: 100vh;
+}
+.darkRegDiv{
+    width: 100vw;
+    height: 100vh;
+}
+
+.lightReg {
+    width: 500px;
+    height: 430px;
+    border-radius: 10px;
+    margin: auto;
+    margin-top: 5%;
+    -webkit-box-shadow: 8px 9px 57px -10px rgba(0, 0, 0, 0.39);
+    -moz-box-shadow: 8px 9px 57px -10px rgba(0, 0, 0, 0.39);
+    box-shadow: 8px 9px 57px -10px rgba(0, 0, 0, 0.39);
+}
+.darkReg {
+    width: 500px;
+    height: 430px;
+    border-radius: 10px;
+    background-color: #2ca7ff;
+    margin: auto;
+    margin-top: 5%;
+    -webkit-box-shadow: 8px 9px 57px -10px white;
+    -moz-box-shadow: 8px 9px 57px -10px white;
+    box-shadow: 8px 9px 57px -10px white;
+}
+.loginLink{
+    margin-left:300px;
+}
+#red{
+    text-align: center;
+    color:red;
+    /* display:none;     */
+
+}
